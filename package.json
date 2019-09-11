@@ -1,0 +1,26 @@
+{
+  "name": "last-train-to-nodeville",
+  "version": "1.0.0",
+  "description": "Making the code be able to be tested",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "json": "^9.0.6"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caleb9090/last-train-to-nodeville.git"
+  },
+  "author": "Caleb French",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caleb9090/last-train-to-nodeville/issues"
+  },
+  "homepage": "https://github.com/Caleb9090/last-train-to-nodeville#readme"
+}
